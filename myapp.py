@@ -14,6 +14,9 @@ st.write('This is a web app to classify the quality of your wine based on\
          several features that you can see in the sidebar. Please adjust the\
          value of each feature. After that, click on the Predict button at the bottom to\
          see the prediction of the classifier.')
+image = "wine.png"
+st.image(image, width=None)
+
 
 
 #creating sidebar for user input features
