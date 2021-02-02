@@ -2,7 +2,7 @@
 
 This is a web app to classify the quality of your wine based on several features that you can see in the application. 
 
-![wine](/Users/nathanamar/Documents/github/Wine_Deployment/wine.png)
+![wine](https://github.com/Nath19/Wine_Deployment/blob/main/wine.png)
 
 
 
