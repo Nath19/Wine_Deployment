@@ -10,5 +10,6 @@ This is a web app to classify the quality of your wine based on several features
 
 ```
 Link to the app : [Application Wine !](https://share.streamlit.io/nath19/wine_deployment/main/myapp.py)
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+http://github.com - automatic!
+[GitHub](http://github.com)
 ```
