@@ -9,5 +9,6 @@ This is a web app to classify the quality of your wine based on several features
 
 
 ```
-Link to the app : [Application Wine ! ](https://share.streamlit.io/nath19/wine_deployment/main/myapp.py)
+Link to the app : [Application Wine !](https://share.streamlit.io/nath19/wine_deployment/main/myapp.py)
+[link to Google!](http://google.com)
 ```
